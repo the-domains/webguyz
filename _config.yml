@@ -14,11 +14,11 @@ github: true
 layout_spectrum: 0.8581243136432022
 name: Webguyz
 navigation:
-  - name: About
-    id: 03dfcf74-0a06-43b4-9b02-5420539dbcb4
-    type: content
   - name: Video
     id: 28b15c44-c579-45ef-8a60-729f7ee750d8
+    type: content
+  - name: About
+    id: 03dfcf74-0a06-43b4-9b02-5420539dbcb4
     type: content
   - name: Shop
     id: 88f76f2e-7f72-4744-8974-83ff422d76eb
