@@ -1,0 +1,30 @@
+typography_spectrum: 0.20734618743881583
+color:
+  brandStrength: 0.5118494788184762
+  lightness: 0.547030524816364
+  saturation: 0.04823158122599125
+  rhythmicContrast: 0.516962033463642
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+github: true
+layout_spectrum: 0.8581243136432022
+name: Webguyz
+navigation:
+  - name: About
+    id: 03dfcf74-0a06-43b4-9b02-5420539dbcb4
+    type: content
+  - name: Video
+    id: 28b15c44-c579-45ef-8a60-729f7ee750d8
+    type: content
+  - name: Shop
+    id: 88f76f2e-7f72-4744-8974-83ff422d76eb
+    type: content
+content: []
+purpose:
+  - type: contact
+    url: 'tel:347-406-2809'
+    label: Call 347-406-2809
