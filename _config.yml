@@ -28,5 +28,8 @@ purpose:
   - type: contact
     url: 'tel:347-406-2809'
     label: Call 347-406-2809
+  - type: external
+    url: 'http://www.webguyz.nyc'
+    label: Official Website
 title: WebGuyz Press Kit
 description: This is an offical channel of our accomplishments and mentions.
